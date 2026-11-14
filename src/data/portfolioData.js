@@ -23,6 +23,12 @@ export const PORTFOLIO_DATA = {
 
   skills: [
     {
+      title: "Tech & Documentary Videos",
+      category: "Video Editing",
+      description: "Fast-paced tech breakdowns, financial analyses, and AI documentary edits with kinetic charts, B-roll pacing, and high retention hooks.",
+      icon: "cpu"
+    },
+    {
       title: "Commercial & Ad Editing",
       category: "Video Editing",
       description: "Hook-driven pacing, rhythmic cuts, and kinetic typography designed to maximize viewer retention and conversion.",
@@ -51,12 +57,6 @@ export const PORTFOLIO_DATA = {
       category: "Animation",
       description: "Smooth title reveals, sleek lower-thirds, graphic overlays, and seamless cinematic scene transitions.",
       icon: "layers"
-    },
-    {
-      title: "Color Grading & Sound Design",
-      category: "Finishing",
-      description: "Rich color grading and immersive sound staging with custom Foley, sound effects, and balanced music ducking.",
-      icon: "sliders"
     }
   ],
 
@@ -70,6 +70,16 @@ export const PORTFOLIO_DATA = {
   ],
 
   videos: [
+    {
+      id: "tech-01",
+      category: "Tech Videos",
+      badge: "Tech & AI",
+      title: "China's AI Stocks Crashed 40% — Could It Happen in America?",
+      description: "High-retention documentary-style tech breakdown analyzing AI market volatility, geopolitical tensions, and macroeconomic trends. Formatted with dynamic data visualizations, motion graphics, and fast-paced B-roll storytelling.",
+      embedUrl: "https://drive.google.com/file/d/1qj6NJysVwYcUGgxfRMz4igmPcroouPs7/preview",
+      driveUrl: "https://drive.google.com/file/d/1qj6NJysVwYcUGgxfRMz4igmPcroouPs7/view",
+      tags: ["Tech Breakdown", "Documentary Pacing", "Motion Graphics", "Data Visuals", "Premiere Pro"]
+    },
     {
       id: "ad-01",
       category: "Advertisement",

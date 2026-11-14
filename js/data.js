@@ -74,6 +74,15 @@ const PORTFOLIO_DATA = {
   // Google Drive Embedded Videos
   videos: [
     {
+      id: "tech-01",
+      category: "Tech Videos",
+      badge: "Tech & AI",
+      title: "China's AI Stocks Crashed 40% — Could It Happen in America?",
+      description: "High-retention documentary-style tech breakdown analyzing AI market volatility, geopolitical tensions, and macroeconomic trends. Formatted with dynamic data visualizations, motion graphics, and fast-paced B-roll storytelling.",
+      embedUrl: "https://drive.google.com/file/d/1qj6NJysVwYcUGgxfRMz4igmPcroouPs7/preview",
+      driveUrl: "https://drive.google.com/file/d/1qj6NJysVwYcUGgxfRMz4igmPcroouPs7/view"
+    },
+    {
       id: "ad-01",
       category: "Advertisement",
       badge: "Commercial",

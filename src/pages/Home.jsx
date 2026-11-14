@@ -246,7 +246,7 @@ export default function Home() {
                 <div className="preview-tag">Video Portfolio</div>
                 <h3 className="preview-title">Video Editing Showcase</h3>
                 <p className="preview-desc">
-                  Watch 4 curated video edits featuring commercial advertisements, in-depth podcasts, and concise educational lecture breakdowns embedded with interactive video players.
+                  Watch 5 curated video edits featuring tech documentary breakdowns, commercial advertisements, in-depth podcasts, and concise educational lecture clips embedded with interactive video players.
                 </p>
               </div>
               <Link to="/video-editing" className="btn btn-primary">
